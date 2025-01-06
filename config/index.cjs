@@ -42,15 +42,15 @@ const USER_CONFIG = {
   // // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   // CALLBACK_TEMPLATE_ID: 'WOf6q0ufOda3YJ-gZO4umUO1AO8iY4lo77HNQBxDEEI',
 
-//   CALLBACK_USERS: [
-//     {
-//       name: '今天刷leetcode了吗',
-//       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-//       id: 'o1izq6-Xl94IR1uydmtOv72DXEzQ',
-//     }
-//   ],
+  // CALLBACK_USERS: [
+  //   {
+  //     name: '今天刷leetcode了吗',
+  //     // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+  //     id: 'o1izq6-Xl94IR1uydmtOv72DXEzQ',
+  //   }
+  // ],
 
-// }
+}
 
 module.exports = USER_CONFIG
 
