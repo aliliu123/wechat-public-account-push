@@ -21,13 +21,13 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '今天刷leetcode了吗',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '今天刷leetcode了吗',
+      id: '845ht29K7OFajQ8yAd83shpEBPopV7JBrEA0DBzwrPs',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '1999-03-28',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '199', date: '03-28',
+          type: '生日', name: '顺顺', year: '199', date: '03-28',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '04-22',
@@ -42,11 +42,11 @@ const USER_CONFIG = {
   ],
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	-fEE5hGUbmGboBbehWr0rXgSPxrEZAMXP6G20g6E0ek',
+  CALLBACK_TEMPLATE_ID: '845ht29K7OFajQ8yAd83shpEBPopV7JBrEA0DBzwrPs',
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: '今天刷leetcode了吗',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o1izq6-Xl94IR1uydmtOv72DXEzQ',
     }
