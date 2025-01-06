@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '今天刷leetcode了吗',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '845ht29K7OFajQ8yAd83shpEBPopV7JBrEA0DBzwrPs',
+      id: 'o1izq6-Xl94IR1uydmtOv72DXEzQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '1999-03-28',
+      useTemplateId: '845ht29K7OFajQ8yAd83shpEBPopV7JBrEA0DBzwrPs',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
