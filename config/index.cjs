@@ -17,9 +17,9 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '今天刷leetcode了吗',
+      name: '你的好朋友',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o1izq6-Xl94IR1uydmtOv72DXEzQ',
+      id: 'o1izq66rREbiVZIU_lQpoh_KASXM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'xTkhqvjA-KXcT4l4ayjuwEl5EeeAMtv18sPgKOnv7RY',
       festivals: [
