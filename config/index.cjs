@@ -17,11 +17,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '你的好朋友',
+      name: '顺顺丽丽刘女士（减肥版）',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o1izq66rREbiVZIU_lQpoh_KASXM',
+      id: 'o1izq6-Xl94IR1uydmtOv72DXEzQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'xTkhqvjA-KXcT4l4ayjuwEl5EeeAMtv18sPgKOnv7RY',
+      useTemplateId: 'ZuNVft4tCcd175W2GRTgQzc-PdTv3vZhgCJIkl1t0xY',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
